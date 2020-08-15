@@ -14,8 +14,9 @@ This [project](https://www.theodinproject.com/courses/nodejs/lessons/basic-infor
 * Basic navigation using URL module
 
 ## Demo
+You can see the project demo [here](https://repl.it/github/captain-31/basic-information-site) or click on the badge below
 
-You can see the project demo [here](url).
+[![Run on Repl.it](https://repl.it/badge/github/captain-31/basic-information-site)](https://repl.it/github/captain-31/basic-information-site)
 
 ## Installation
 
